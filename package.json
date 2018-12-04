@@ -1,0 +1,12 @@
+{
+  "name": "MERNG-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mpmcauliffe/MERNG-chat.git",
+  "author": "mpmcauliffe <mcauliffe99@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^14.0.2"
+  },
+  "devDependencies": {}
+}
