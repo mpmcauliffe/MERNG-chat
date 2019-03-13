@@ -5,9 +5,11 @@
   "repository": "https://github.com/mpmcauliffe/MERNG-chat.git",
   "author": "mpmcauliffe <mcauliffe99@gmail.com>",
   "license": "MIT",
+  "scripts": {
+      "watch": "nodemon"
+  },
   "dependencies": {
-    "express": "^4.16.4",
-    "express-graphql": "^0.7.1",
+    "apollo-server": "^2.4.8",
     "graphql": "^14.0.2",
     "prettier": "^1.15.3"
   },
